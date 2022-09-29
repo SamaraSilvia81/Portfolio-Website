@@ -15,7 +15,7 @@ export default function Alert({ isCorrect, solution, turn }) {
 						<p>See u later :)</p>
 					</>
 				)}
-				<a href="/jogodasenha-react"><button>Try Again</button></a>
+				<a href="/jogodasenha"><button>Try Again</button></a>
 			</div>
 		</div>
 	)
