@@ -40,9 +40,9 @@ function Info() {
 				<br></br>
 
 				<div className='cores'>
-					<p>Palavras na posição <code id='green'>correta</code></p>
-					<p>Palavras na posição <code id='pink'>errada</code></p>
-					<p>Palavras <code id='grey'>inexistentes</code></p>
+					<p>Letras na posição <code id='green'>correta</code></p>
+					<p>Letras na posição <code id='pink'>errada</code></p>
+					<p>Letras <code id='grey'>inexistentes</code></p>
 				</div>
 
 			</div>
