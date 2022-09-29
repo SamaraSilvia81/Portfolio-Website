@@ -5,14 +5,14 @@ export default function Alert({ isCorrect, solution, turn }) {
 				<p className="solution">{solution}</p>
 				{isCorrect && (
 					<>
-						<h1>You Win!</h1>
-						<p>You did it, in {turn} guesses :)</p>
+						<h1>Você Ganhou!</h1>
+						<p>Você fez isso, em {turn} tentativas :)</p>
 					</>
 				)}
 				{!isCorrect && (
 					<>
-						<h1>You Lose!</h1>
-						<p>See u later :)</p>
+						<h1>Você Perdeu!</h1>
+						<p>Até logo! :)</p>
 					</>
 				)}
 				<a href="/jogodasenha"><button>Try Again</button></a>
