@@ -6,15 +6,16 @@
 ## ABOUT US
 > Este repositório tem como por objetivo registrar um projeto react desenvolvido para compor minha nota final na disciplina de Programação Front-End.
   
-## Links e Deploys
-- `Portifólio do Projeto:`
+## Deploy
+  - `Link do Projeto:`
 
-Obs: Se quiser fazer o "git clone" é só iniciar com `npm i` e depois dá um `npm start`
+**Deploy Manual:** Caso o site não esteja funcionando no link apresentado você poderá ter o projeto na sua própria máquina fazendo um **git clone**. Após isso, é só iniciar com `npm i` e depois dá um `npm start`.
 
 ## O Portfólio 
 O conceito de portfólio pode variar a depender do uso, podendo ser uma coleção de projetos ou até mesmo um resumo das suas atividades. No que tange, o meu portfólio, ele engloba ambos, sendo um tipo de cartão de visitas para quem queira me conhecer e saber o que eu faço.
 
 ## Ferramentas e Tecnologias 
+- `React JS:` Esta biblioteca foi usada como base do projeto.
 - `UI Kit:` Framework Tailwind CSS.
 - `React Router:` É a biblioteca de roteamento padrão do React.
 - `Zustand:` Usado para o gerenciamento global. Ele é basicamente um armazenamento único (você pode criar vários armazenamentos, mas eles são separados).
