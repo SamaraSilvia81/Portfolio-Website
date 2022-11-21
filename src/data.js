@@ -12,20 +12,25 @@ import {
 
 // projects images
 import Project1 from './assets/img/projects/puberflix.png';
-import Project2 from './assets/img/projects/villians.png';
-import Project3 from './assets/img/projects/library.png';
-import Project4 from './assets/img/projects/todolist.png';
-import Project5 from './assets/img/projects/profilegit.png';
-import Project6 from './assets/img/projects/gamesecret.png';
-import Project7 from './assets/img/projects/library.png';
+import Project2 from './assets/img/projects/todolist.png';
+import Project3 from './assets/img/projects/villians.png';
+import Project4 from './assets/img/projects/gamesecret.png';
+import Project5 from './assets/img/projects/library.png';
+import Project6 from './assets/img/projects/profilegit.png';
+import Project7 from './assets/img/projects/contabancaria.png';
+import Project8 from './assets/img/projects/library.png';
 
 // skills images
 import SkillImg1 from './assets/img/skills/html5.png';
 import SkillImg2 from './assets/img/skills/css3.png';
 import SkillImg3 from './assets/img/skills/js.png';
 import SkillImg4 from './assets/img/skills/reactjs.png';
-import SkillImg5 from './assets/img/skills/git.png';
-import SkillImg6 from './assets/img/skills/figma.png';
+import SkillImg5 from './assets/img/skills/java.png';
+import SkillImg6 from './assets/img/skills/git.png';
+import SkillImg7 from './assets/img/skills/tailwind.png';
+import SkillImg8 from './assets/img/skills/mui.png';
+import SkillImg9 from './assets/img/skills/bootstrap.png';
+import SkillImg10 from './assets/img/skills/figma.png';
 
 // navigation
 export const navigation = [
@@ -80,46 +85,54 @@ export const projectsData = [
   {
     id: '2',
     image: Project2,
-    name: 'Word´s Villians',
-    category: 'web development',
-    description:'Projeto Pessoal de Front, contendo as tecnologias de HTML,CSS e JS, voltado para um universo dos vilões geek.',
-    href: 'https://worldsvillians.netlify.app/',
-  },
-  {
-    id: '3',
-    image: Project3,
-    name: 'Library Studio',
-    category: 'UI/UX design',
-    description:'Prótipo desenvolvido para um projeto fullstack, envolvendo React no front e Java e Spring Boot no back.',
-    href: 'https://www.figma.com/proto/pEAWwmhwBH1392WHb1oFj0/Prot%C3%B3tipo---Library-Studio-X?node-id=0%3A1',
-  },
-  {
-    id: '4',
-    image: Project4,
     name: 'ToDo List',
     category: 'web development',
     description:'Projeto Front-End desenvolvido com HTML, CSS e JS.',
     href: 'https://projetos-front-end.vercel.app/ToDoList/index.html',
   },
   {
-    id: '5',
-    image: Project5,
-    name: 'Profile Github',
+    id: '3',
+    image: Project3,
+    name: 'Word´s Villians',
     category: 'web development',
-    description:'Projeto Básico de React simulando a view profile mobile do github.',
-    href: '',
+    description:'Projeto Pessoal de Front, contendo as tecnologias de HTML,CSS e JS, voltado para um universo dos vilões geek.',
+    href: 'https://worldsvillians.netlify.app/',
   },
   {
-    id: '6',
-    image: Project6,
+    id: '4',
+    image: Project4,
     name: 'Game Secret',
     category: 'web development',
     description:'Projeto de React sobre um jogo de advinhar palavras/senhas.',
     href: 'https://jogo-da-senha-samara81.vercel.app/jogodasenha',
   },
   {
+    id: '5',
+    image: Project5,
+    name: 'Library Studio',
+    category: 'UI/UX design',
+    description:'Prótipo desenvolvido para um projeto fullstack, envolvendo React no front e Java e Spring Boot no back.',
+    href: 'https://www.figma.com/proto/pEAWwmhwBH1392WHb1oFj0/Prot%C3%B3tipo---Library-Studio-X?node-id=0%3A1',
+  },
+  {
+    id: '6',
+    image: Project6,
+    name: 'Profile Github',
+    category: 'web development',
+    description:'Projeto Básico de React simulando a view profile mobile do github.',
+    href: '',
+  },
+  {
     id: '7',
     image: Project7,
+    name: 'Conta Bancária',
+    category: 'backend',
+    description:'Projeto desenvolvido no curso em vídeo de Guanabara aplicando conceitos de POO em Java.',
+    href: 'https://github.com/SamaraSilvia81/CursoEmVideo-POO-Java/tree/main/desafioBanco2',
+  },
+  {
+    id: '8',
+    image: Project8,
     name: 'Library Studio',
     category: 'fullstack',
     description:'Prótipo desenvolvido para um projeto fullstack, envolvendo React no front e Java e Spring Boot no back.',
@@ -137,6 +150,9 @@ export const projectsNav = [
   },
   {
     name: 'web development',
+  },
+  {
+    name: 'backend',
   },
   {
     name: 'fullstack',
@@ -162,6 +178,18 @@ export const skills = [
   },
   {
     image: SkillImg6,
+  },
+  {
+    image: SkillImg7,
+  },
+  {
+    image: SkillImg8,
+  },
+  {
+    image: SkillImg9,
+  },
+  {
+    image: SkillImg10,
   },
 ];
 
