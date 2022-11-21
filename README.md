@@ -6,8 +6,23 @@
 ## ABOUT US
 > Este repositório tem como por objetivo registrar um projeto react desenvolvido para compor minha nota final na disciplina de Programação Front-End.
   
-## Deploy
-  - `Link do Projeto:` https://portfolio-samara.surge.sh/
+## Deploy Surge
+Para o deploy desse projeto eu usei a ferramenta - surge -. 
+ - `Link do Projeto:` https://portfolio-samara.surge.sh/
+ 
+## Etaps do Deploy 
+
+- `Etapa 01:` Primeiro é preciso endereçar a pasta de arquivos do seu projeto com o comando `cd`.
+
+- `Etapa 02:` Após isso você precisa instalar as dependências do surge com o comando `npm install --global surge`.
+
+![instalação do surge](https://user-images.githubusercontent.com/100232025/203158498-5eeacd98-87c9-4582-93d5-65dd44996f15.png)
+
+- `Etapa 03:` Depois você precisa "construir" o seu site, então digite no terminal o comando `npm run build`
+![image](https://user-images.githubusercontent.com/100232025/203157949-8e48fe2d-d74e-4ab6-a93a-f2adbbc2211f.png)
+
+- `Etapa 04:` Para finalizar você irá rodar o comando `surge`, preencher o seu email e senha, se quiser mudar o nome do domínio faça e na hora que aparecer o endereçamento do projeto, direcione até a pasta do build como mostrado na imagem.
+![image](https://user-images.githubusercontent.com/100232025/203158000-608792a6-2bcf-4630-8b07-f1e871023588.png)
 
 **Deploy Manual:** Caso o site não esteja funcionando no link apresentado você poderá ter o projeto na sua própria máquina fazendo um **git clone**. Após isso, é só iniciar com `npm i` e depois dá um `npm start`.
 
