@@ -6,6 +6,10 @@
 ## ABOUT US
 > Este repositório tem como por objetivo registrar um projeto react desenvolvido para compor minha nota final na disciplina de Programação Front-End.
   
+## O Portfólio 
+
+O conceito de portfólio pode variar a depender do uso, podendo ser uma coleção de projetos ou até mesmo um resumo das suas atividades. No que tange, o meu portfólio, ele engloba ambos, sendo um tipo de cartão de visitas para quem queira me conhecer e saber o que eu faço.
+
 ## Links e Deploys
 - `Portifólio do Projeto:` 
 
