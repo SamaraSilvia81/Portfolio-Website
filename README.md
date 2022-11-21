@@ -19,4 +19,4 @@ O conceito de portfólio pode variar a depender do uso, podendo ser uma coleçã
 - `Zustand:` Usado para o gerenciamento global. Ele é basicamente um armazenamento único (você pode criar vários armazenamentos, mas eles são separados).
 
 ## Deploy do Projeto
-
+![Portfólio Web Deploy)](https://user-images.githubusercontent.com/100232025/203072506-7d0ff565-f422-4133-9756-9f68f64cb149.gif)
