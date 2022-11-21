@@ -9,5 +9,10 @@
 ## Links e Deploys
 - `Portifólio do Projeto:` 
 
+## Ferramentas e Tecnologias 
+- `UI Kit:` Framework Tailwind CSS.
+- `React Router:` É a biblioteca de roteamento padrão do React.
+- `Zustand:` Usado para o gerenciamento global. Ele é basicamente um armazenamento único (você pode criar vários armazenamentos, mas eles são separados).
+
 ## Deploy do Projeto
-![Portfólio Web Deploy](https://user-images.githubusercontent.com/100232025/202772774-799a96b3-d76c-4c1e-9f75-15666f4dcb8f.gif)
+![Portfólio Web Deploy](https://user-images.githubusercontent.com/100232025/203073623-269875ee-4afc-41c9-b40c-93e2dd61eaa4.gif)
