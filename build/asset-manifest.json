@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9047e3d0.css",
+    "main.js": "/static/js/main.b5dc9005.js",
+    "static/media/gamesecret.png": "/static/media/gamesecret.f5667285930fec588426.png",
+    "static/media/about.png": "/static/media/about.774d8996af605de55191.png",
+    "static/media/banner-photo-me.png": "/static/media/banner-photo-me.f632a10a2b0b6b33f637.png",
+    "static/media/contabancaria.png": "/static/media/contabancaria.f1f1ff27f0fa81a8552a.png",
+    "static/media/profilegit.png": "/static/media/profilegit.ffb384ec6732b5e2981f.png",
+    "static/media/villians.png": "/static/media/villians.18764c9f2fbd7bd4a4d2.png",
+    "static/media/puberflix.png": "/static/media/puberflix.c2885e868f6b6686321e.png",
+    "static/media/library.png": "/static/media/library.a2e08b78c08777e8a84d.png",
+    "static/media/todolist.png": "/static/media/todolist.2a88b6f42a3e01a63994.png",
+    "static/media/java.png": "/static/media/java.8b15054a804979cab2b8.png",
+    "static/media/hobbies.svg": "/static/media/hobbies.106340a312f59db84e0a.svg",
+    "static/media/logofooter.svg": "/static/media/logofooter.610a45f1d8c42c21b82c87ac774f182f.svg",
+    "static/media/bootstrap.png": "/static/media/bootstrap.e94a80856cc0cb492938.png",
+    "static/media/logoheader.png": "/static/media/logoheader.1ec0fff85dd9fd3f36ab.png",
+    "static/media/mui.png": "/static/media/mui.14f3f0fce83377de7957.png",
+    "static/media/tailwind.png": "/static/media/tailwind.777e0cb8a20e2dd4e30c.png",
+    "static/media/portfolio.svg": "/static/media/portfolio.2f31f4be113e35cc3442.svg",
+    "static/media/contact.svg": "/static/media/contact.ec60abf53c38c2593f7e.svg",
+    "static/media/about.svg": "/static/media/about.70a8290c961c47c208b5.svg",
+    "index.html": "/index.html",
+    "main.9047e3d0.css.map": "/static/css/main.9047e3d0.css.map",
+    "main.b5dc9005.js.map": "/static/js/main.b5dc9005.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9047e3d0.css",
+    "static/js/main.b5dc9005.js"
+  ]
+}
