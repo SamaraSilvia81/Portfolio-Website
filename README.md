@@ -13,6 +13,8 @@
 
 - `Etapa 01:` Primeiro é preciso endereçar a pasta de arquivos do seu projeto com o comando `cd`.
 
+![cd](https://user-images.githubusercontent.com/100232025/203161668-3d4a4f3a-e669-44cf-883d-05a6a337f9d1.png)
+
 - `Etapa 02:` Após isso você precisa instalar as dependências do surge com o comando `npm install --global surge`.
 
 ![instalação do surge](https://user-images.githubusercontent.com/100232025/203158498-5eeacd98-87c9-4582-93d5-65dd44996f15.png)
