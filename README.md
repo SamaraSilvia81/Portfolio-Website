@@ -7,7 +7,7 @@
 > Este repositório tem como por objetivo registrar um projeto react desenvolvido para compor minha nota final na disciplina de Programação Front-End.
   
 ## Deploy
-  - `Link do Projeto:`
+  - `Link do Projeto:` https://portfolio-samara.surge.sh/
 
 **Deploy Manual:** Caso o site não esteja funcionando no link apresentado você poderá ter o projeto na sua própria máquina fazendo um **git clone**. Após isso, é só iniciar com `npm i` e depois dá um `npm start`.
 
