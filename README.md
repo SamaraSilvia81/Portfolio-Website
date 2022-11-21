@@ -9,6 +9,9 @@
 ## Links e Deploys
 - `Portifólio do Projeto:` 
 
+## O Portfólio 
+O conceito de portfólio pode variar a depender do uso, podendo ser uma coleção de projetos ou até mesmo um resumo das suas atividades. No que tange, o meu portfólio, ele engloba ambos, sendo um tipo de cartão de visitas para quem queira me conhecer e saber o que eu faço.
+
 ## Ferramentas e Tecnologias 
 - `UI Kit:` Framework Tailwind CSS.
 - `React Router:` É a biblioteca de roteamento padrão do React.
