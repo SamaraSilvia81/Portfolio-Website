@@ -25,8 +25,7 @@
 
 ![surge](https://user-images.githubusercontent.com/100232025/203158000-608792a6-2bcf-4630-8b07-f1e871023588.png)
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=!&message=Atencao&color=4a309d&style=for-the-badge)
-**Deploy Manual:** Caso o site não esteja funcionando no link apresentado você poderá ter o projeto na sua própria máquina fazendo um **git clone**. Após isso, é só iniciar com `npm i` e depois dá um `npm start`.
+:warning:**Atenção** - Caso o site não esteja funcionando no link apresentado você poderá ter o projeto na sua própria máquina fazendo um **git clone**. Após isso, é só iniciar com `npm i` e depois dá um `npm start`.
 
 ## O Portfólio 
 O conceito de portfólio pode variar a depender do uso, podendo ser uma coleção de projetos ou até mesmo um resumo das suas atividades. No que tange, o meu portfólio, ele engloba ambos, sendo um tipo de cartão de visitas para quem queira me conhecer e saber o que eu faço.
