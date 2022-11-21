@@ -6,7 +6,6 @@ import { Controls } from "../zustand/Controls";
 import Logo from '../../assets/img//logoheader.png';
 import Nav from '../layout/navBar/Nav';
 import NavMobile from '../layout/navBar/Nav';
-import Socials from '../content/Socials';
 
 const Header = () => {
 

@@ -20,10 +20,10 @@ const Hero = () => {
               I Build & Design <br /> Web Interfaces.
             </h1>
             <p className='pt-4 pb-8 md:pt-6 md:pb-12 max-w-[480px] text-lg text-center lg:text-left'>
-              So, what about meet a litle bit about my work and about me...
+              Então, que tal conhecer um pouco sobre mim e o meu trabalho...
             </p>
             <a href='/contact'>
-              <button className='btn btn-md bg-violet-900 hover:bg-violet-800 md:btn-lg transition-all'>
+              <button className='btn btn-md md:btn-lg transition ease-in-out delay-150 bg-violet-900 hover:-translate-y-1 hover:scale-110 hover:bg-violet-800 duration-300'>
                 Work with me
               </button>
             </a>

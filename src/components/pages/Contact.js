@@ -7,7 +7,7 @@ import { contact } from '../../data';
 const Contact = () => {
   return (
     <section className='section bg-primary' id='contact'>
-      <div className='container mx-auto'>
+      <div className='container mx-auto pt-20'>
         <div className='flex flex-col items-center text-center'>
           <h2 className='section-title before:content-contact relative before:absolute before:opacity-40 before:-top-7 before:-left-40 before:hidden before:lg:block'>
             Contact me
@@ -51,7 +51,7 @@ const Contact = () => {
               className='textarea'
               placeholder='Your message'
             ></textarea>
-            <button className='btn btn-lg bg-violet-900 hover:bg-violet-800'>
+            <button className='btn btn-md md:btn-lg transition ease-in-out delay-150 bg-violet-900 hover:-translate-y-1 hover:scale-110 hover:bg-violet-800 duration-300'>
               Send message
             </button>
           </form>

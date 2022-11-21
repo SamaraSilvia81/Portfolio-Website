@@ -7,7 +7,7 @@ const About = () => {
   return (
     <section className='section bg-secondary' id='about'>
       <div className='container mx-auto'>
-        <div className='flex flex-col xl:flex-row gap-24'>
+        <div className='flex flex-col xl:flex-row gap-24 pt-20'>
           <img
             className='object-cover h-full w-[566px] md:mx-auto lg:mx-0 rounded-2xl'
             src={Image}
@@ -34,9 +34,11 @@ const About = () => {
                 Esse portfólio é resultado de um projeto passado para compor minha nota final. Espero que gostem!!!
               </p>
             </div>
-            <button className='btn btn-md bg-violet-900 hover:bg-violet-800 transition-all'>
-              Contact me
-            </button>
+            <a href='/contact'>
+              <button className='btn btn-md md:btn-lg transition ease-in-out delay-150 bg-violet-900 hover:-translate-y-1 hover:scale-110 hover:bg-violet-800 duration-300'>
+                Contact me
+              </button>
+            </a>
           </div>
         </div>
       </div>
