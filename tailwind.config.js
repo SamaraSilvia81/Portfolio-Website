@@ -22,7 +22,7 @@ module.exports = {
       content: {
         about: 'url("/src/assets/img/outline-text/about.svg")',
         portfolio: 'url("/src/assets/img/outline-text/portfolio.svg")',
-        services: 'url("/src/assets/img/outline-text/services.svg")',
+        hobbies: 'url("/src/assets/img/outline-text/hobbies.svg")',
         contact: 'url("/src/assets/img/outline-text/contact.svg")',
       },
       colors: {
