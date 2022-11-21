@@ -19,12 +19,13 @@
 
 - `Etapa 03:` Depois você precisa "construir" o seu site, então digite no terminal o comando `npm run build`
 
-![image](https://user-images.githubusercontent.com/100232025/203157949-8e48fe2d-d74e-4ab6-a93a-f2adbbc2211f.png)
+![build](https://user-images.githubusercontent.com/100232025/203157949-8e48fe2d-d74e-4ab6-a93a-f2adbbc2211f.png)
 
 - `Etapa 04:` Para finalizar você irá rodar o comando `surge`, preencher o seu email e senha, se quiser mudar o nome do domínio faça e na hora que aparecer o endereçamento do projeto, direcione até a pasta do build como mostrado na imagem.
 
-![image](https://user-images.githubusercontent.com/100232025/203158000-608792a6-2bcf-4630-8b07-f1e871023588.png)
+![surge](https://user-images.githubusercontent.com/100232025/203158000-608792a6-2bcf-4630-8b07-f1e871023588.png)
 
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=!&message=Atencao&color=4a309d&style=for-the-badge)
 **Deploy Manual:** Caso o site não esteja funcionando no link apresentado você poderá ter o projeto na sua própria máquina fazendo um **git clone**. Após isso, é só iniciar com `npm i` e depois dá um `npm start`.
 
 ## O Portfólio 
