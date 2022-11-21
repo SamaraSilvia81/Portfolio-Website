@@ -7,7 +7,9 @@
 > Este repositório tem como por objetivo registrar um projeto react desenvolvido para compor minha nota final na disciplina de Programação Front-End.
   
 ## Links e Deploys
-- `Portifólio do Projeto:` 
+- `Portifólio do Projeto:`
+
+Obs: Se quiser fazer o "git clone" é só iniciar com `npm i` e depois dá um `npm start`
 
 ## O Portfólio 
 O conceito de portfólio pode variar a depender do uso, podendo ser uma coleção de projetos ou até mesmo um resumo das suas atividades. No que tange, o meu portfólio, ele engloba ambos, sendo um tipo de cartão de visitas para quem queira me conhecer e saber o que eu faço.
